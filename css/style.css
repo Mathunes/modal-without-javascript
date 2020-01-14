@@ -28,6 +28,7 @@ html, body {
     font-size: 18px;
     border-radius: 10px;
     transition: all .3s;
+    box-shadow: 0px 0px 5px rgba(12, 49, 97, 0.5);
 } 
 
 .container .modal-container label p:hover {
