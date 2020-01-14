@@ -50,7 +50,6 @@ html, body {
 
 .container .modal-container .modal {
     position: absolute;
-    top: 0;
     max-width: 500px;
     background-color: #50B4F2;
     padding: 20px 30px;
